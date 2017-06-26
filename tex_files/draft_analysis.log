@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.3.8)  26 JUN 2017 12:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.3.8)  26 JUN 2017 12:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -434,13 +434,13 @@ Package rerunfilecheck Info: File `draft_analysis.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 101.
  ) 
 Here is how much of TeX's memory you used:
- 6341 strings out of 493029
- 91986 string characters out of 6136235
+ 6344 strings out of 493029
+ 92022 string characters out of 6136235
  188909 words of memory out of 5000000
- 9805 multiletter control sequences out of 15000+600000
- 10096 words of font info for 37 fonts, out of 8000000 for 9000
+ 9807 multiletter control sequences out of 15000+600000
+ 10323 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 29i,6n,32p,1078b,325s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 29i,8n,32p,1078b,325s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texl
@@ -449,12 +449,14 @@ xmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dis
 t/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts
 /type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/
 public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmtt12.pfb>
-Output written on draft_analysis.pdf (5 pages, 361569 bytes).
+amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy
+10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb
+>
+Output written on draft_analysis.pdf (5 pages, 376200 bytes).
 PDF statistics:
- 96 PDF objects out of 1000 (max. 8388607)
- 75 compressed objects within 1 object stream
- 13 named destinations out of 1000 (max. 500000)
+ 107 PDF objects out of 1000 (max. 8388607)
+ 84 compressed objects within 1 object stream
+ 14 named destinations out of 1000 (max. 500000)
  40 words of extra memory for PDF output out of 10000 (max. 10000000)
 

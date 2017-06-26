@@ -4,8 +4,8 @@ import matplotlib.pyplot as plt
 import csv
 
 def main():
-    with open('probs.csv', mode='r') as csv_file:
-        with open('probs_combined.csv', mode='w') as write_file:
+    with open('../data/probs.csv', mode='r') as csv_file:
+        with open('../data/probs_combined.csv', mode='w') as write_file:
             reader = csv.reader(csv_file)
             line_count = 0
             for line in reader:

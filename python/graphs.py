@@ -8,6 +8,7 @@ plt.rcParams['font.size'] = 18\
 def main():
     data = np.zeros([14,14])
     data_combined = np.zeros([14,14])
+    
     # reading in data
     with open('../data/probs.csv', mode='r') as csv_file:
         reader = csv.reader(csv_file)
@@ -69,9 +70,6 @@ def main():
     plt.ylabel('probability')
     plt.title('probability of having picked by the nth pick for each lottery team')
     plt.show()
-
-
-
 
 if __name__ == '__main__':
     main()
